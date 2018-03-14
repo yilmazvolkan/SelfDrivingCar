@@ -2,8 +2,8 @@
 It is a modeled self driving car
 
 <p align="center">
-<a href = "https://github.com/yilmazvolkan/ImageCreator"><img 
-<img src="https://github.com/yilmazvolkan/ImageCreator/blob/master/Res/ai_art_logo.png" width="250" height="250"></a>
+<a href = "https://github.com/yilmazvolkan/SelfDrivingCar"><img 
+<img src="https://github.com/yilmazvolkan/SelfDrivingCar/blob/master/Project/project_logo.png" width="600" height="150"></a>
 </p>
 <p align="center">
     <a href="https://github.com/yilmazvolkan/SelfDrivingCar/blob/master/README.md">
