@@ -36,7 +36,7 @@ Deep Q-Learning is implemented in Self Driving Car. It is a result of combining 
 
 <p align="center">
 <a href = "https://github.com/yilmazvolkan/SelfDrivingCar/blob/master/Project/deep_q_learning.png"><img 
-<img src="https://github.com/yilmazvolkan/SelfDrivingCar/blob/master/Project/deep_q_learning.png" width="900" height="400"></a>
+<img src="https://github.com/yilmazvolkan/SelfDrivingCar/blob/master/Project/deep_q_learning.png" width="800" height="300"></a>
 </p>
 
 
