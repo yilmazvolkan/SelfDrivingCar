@@ -2,7 +2,7 @@
 
 <p align="center">
 <a href = "https://github.com/yilmazvolkan/SelfDrivingCar"><img 
-<img src="https://github.com/yilmazvolkan/SelfDrivingCar/blob/master/Project/project_logo.png" width="750" height="250"></a>
+<img src="https://github.com/yilmazvolkan/SelfDrivingCar/blob/master/Project/project_logo.png" width="750" height="220"></a>
 </p>
 <p align="center">
     <a href="https://github.com/yilmazvolkan/SelfDrivingCar/blob/master/README.md">
@@ -36,7 +36,7 @@ Deep Q-Learning is implemented in Self Driving Car. It is a result of combining 
 
 <p align="center">
 <a href = "https://github.com/yilmazvolkan/SelfDrivingCar/blob/master/Project/deep_q_learning.png"><img 
-<img src="https://github.com/yilmazvolkan/SelfDrivingCar/blob/master/Project/deep_q_learning.png" width="750" height="500"></a>
+<img src="https://github.com/yilmazvolkan/SelfDrivingCar/blob/master/Project/deep_q_learning.png" width="900" height="400"></a>
 </p>
 
 
