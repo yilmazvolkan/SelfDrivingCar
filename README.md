@@ -1,9 +1,8 @@
 # SelfDrivingCar
-It is a modeled self driving car
 
 <p align="center">
 <a href = "https://github.com/yilmazvolkan/SelfDrivingCar"><img 
-<img src="https://github.com/yilmazvolkan/SelfDrivingCar/blob/master/Project/project_logo.png" width="600" height="200"></a>
+<img src="https://github.com/yilmazvolkan/SelfDrivingCar/blob/master/Project/project_logo.png" width="750" height="250"></a>
 </p>
 <p align="center">
     <a href="https://github.com/yilmazvolkan/SelfDrivingCar/blob/master/README.md">
