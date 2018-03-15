@@ -34,9 +34,10 @@ In the reinforcement learning, suppose there is an environment and an agent whic
 Deep Q-Learning is implemented in Self Driving Car. It is a result of combining Q-Learning and Artificial Neural Network. Q represents like quality of an action. The states of the environment are encoded by a vector by means of tensor which is passed as input into ANN. Then the ANN will try to predict which action should be runned by returning Q values of possible actions as outputs. The best action to run is chosen by taking the one that has the highest Q value(E-Greedy) and rarely a random action to prevent find itself stuck in local max since it thinks it gets good rewards.
 
 
-
-
-
+<p align="center">
+<a href = "https://github.com/yilmazvolkan/SelfDrivingCar/blob/master/Project/deep_q_learning.png"><img 
+<img src="https://github.com/yilmazvolkan/SelfDrivingCar/blob/master/Project/deep_q_learning.png" width="750" height="500"></a>
+</p>
 
 
 The most challenging part of self driving car project is when the agent learns a specific action perfectly but does not learn others as well. For example, in a long and straight road, the agent will do some actions over and over and it will learn how to move straightly since it practices a lot. However when it encounters a turn, it does not know what to do and quickly it fails to turn. These consecutive states are somehow correlated and we do not want that interdependency to bias our neural network. The solution is called experience replay in which these states don’t put through network right away, instead they are saved into memory. Thus, we take a uniformly distributed sample from these actions pouch It passed them into network to learn. Moreover, it gives an opportunity to learn from previous experiences when your environment is limit to learn.
