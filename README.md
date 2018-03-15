@@ -14,7 +14,7 @@
              alt="Project">
     </a>
     <a href="https://github.com/yilmazvolkan/SelfDrivingCar/issues">
-        <img src="https://img.shields.io/badge/ISSUES 8-CLOSED-f58c34.svg"
+        <img src="https://img.shields.io/badge/ISSUES 9-CLOSED-f58c34.svg"
              alt="Issues">
     </a>
 </p>
