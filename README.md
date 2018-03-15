@@ -49,11 +49,36 @@ The car and map object is created with the help of Kivy library. Three sensors d
 It quickly figures out the environment and accomplishes the goal. We can see the rewards and punishments graphic:
 
 
-The fall in the beginning means the agent went over the sand road and gets negative reward and quickly learns not to do again in the second time.
+<p align="center">
+<a href = "https://github.com/yilmazvolkan/SelfDrivingCar/blob/master/Project/result_1.png"><img 
+<img src="https://github.com/yilmazvolkan/SelfDrivingCar/blob/master/Project/result_1.png" width="420" height="250"></a>
+</p>
+
+
+The fall in the beginning means the agent went over the sand road and gets negative reward and quickly learns not to do again in the second time. After the orange circle, the map is being painted and agent does not know there are obstacles before it and quickly gets negative reward while it passes over sand. However, it learns and performs what its best.
+
+
 To improve this project, it can be added another layer to ANN to make it more deeper. Thus, it can learn relations between actions and environment more. Furthermore, new methods can be introduced about reward and punishment system. For example, it can be used a timer for how long it takes for the agent to reach the destination. If the agent does not find the destination after some particular seconds it gets a punishment (reward -= 0.2), after some amount of time more punishment (reward -= 0.4) and so on.
 
 
-## :blue_book: Readings
+## :fire: Challenges
+
+### First challenge
+
+
+You can see [@youtube](https://youtu.be/WrgPnBwwNP4).
+
+
+### Second challenge
+
+
+You can see [@youtube](https://youtu.be/6ILNqSs2Ims).
+
+
+### Third challenge
+
+
+You can see [@youtube](https://youtu.be/fyYoToeG0IM).
 
 
 
