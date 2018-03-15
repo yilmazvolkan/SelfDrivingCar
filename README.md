@@ -21,7 +21,11 @@
 
 ## :flashlight: Before You Go
 
+This project uses Kivy and Pytorch libraries.
 
+You can analyze this Kivy base project from [here](https://kivy.org/docs/tutorials/pong.html).
+
+You need to install Kivy from [here](https://kivy.org/#home) and PyTorch from [here](http://pytorch.org) on Anaconda environment.
 
 ## :tophat: Introduction
 
