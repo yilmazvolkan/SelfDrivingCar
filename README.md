@@ -6,15 +6,19 @@
 </p>
 <p align="center">
     <a href="https://github.com/yilmazvolkan/SelfDrivingCar/blob/master/README.md">
-        <img src="https://img.shields.io/badge/DESCRIPTION-ONLINE-a95209.svg"
+        <img src="https://img.shields.io/badge/DESCRIPTION-ONLINE-ba5a0a.svg"
              alt="Description">
     </a>
     <a href="https://github.com/yilmazvolkan/SelfDrivingCar/tree/master/Project">
-        <img src="https://img.shields.io/badge/Project-ONLINE-da690b.svg"
+        <img src="https://img.shields.io/badge/Project-ONLINE-ea710c.svg"
              alt="Project">
     </a>
+     <a href="https://www.youtube.com/playlist?list=PL9IInRPHD1NznVxmj19MbvBnXTfBZPX7A">
+        <img src="https://img.shields.io/badge/@Youtube-ONLINE-f58c34.svg"
+             alt="Youtube">
+    </a>
     <a href="https://github.com/yilmazvolkan/SelfDrivingCar/issues">
-        <img src="https://img.shields.io/badge/ISSUES 9-CLOSED-f58c34.svg"
+        <img src="https://img.shields.io/badge/ISSUES 9-CLOSED-f7a765.svg"
              alt="Issues">
     </a>
 </p>
